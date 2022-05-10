@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/technowood-dz.com/static/css/main.5b387ff6.css",
+    "main.js": "/technowood-dz.com/static/js/main.e14a5da1.js",
+    "static/js/787.fa4f699c.chunk.js": "/technowood-dz.com/static/js/787.fa4f699c.chunk.js",
+    "static/media/002.png": "/technowood-dz.com/static/media/002.c6465bc8102431cb85f1.png",
+    "static/media/004.png": "/technowood-dz.com/static/media/004.7946dd1d58d5cf630b26.png",
+    "static/media/001.png": "/technowood-dz.com/static/media/001.5b575efd60733644779c.png",
+    "static/media/006.png": "/technowood-dz.com/static/media/006.7deb2b7226fe3f0d59e3.png",
+    "static/media/005.png": "/technowood-dz.com/static/media/005.3bdf67f1fe48d938ac0b.png",
+    "static/media/003.png": "/technowood-dz.com/static/media/003.6978f61071a0e69f44bf.png",
+    "static/media/001.jpg": "/technowood-dz.com/static/media/001.60bc676a29b27fd6df64.jpg",
+    "static/media/Localisation_1280x720.jpg": "/technowood-dz.com/static/media/Localisation_1280x720.be3fca9ac4af53319d58.jpg",
+    "static/media/BaaccHome.png": "/technowood-dz.com/static/media/BaaccHome.4a430c0d9092f22e35a1.png",
+    "index.html": "/technowood-dz.com/index.html",
+    "main.5b387ff6.css.map": "/technowood-dz.com/static/css/main.5b387ff6.css.map",
+    "main.e14a5da1.js.map": "/technowood-dz.com/static/js/main.e14a5da1.js.map",
+    "787.fa4f699c.chunk.js.map": "/technowood-dz.com/static/js/787.fa4f699c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b387ff6.css",
+    "static/js/main.e14a5da1.js"
+  ]
+}
